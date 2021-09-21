@@ -23,3 +23,6 @@ npm install
 ```bash
 npm start
 ```
+## Screenshots of the Frontend
+
+![Home](/readme/home.png)
