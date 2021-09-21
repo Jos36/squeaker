@@ -25,4 +25,4 @@ npm start
 ```
 ## Screenshots of the Frontend
 
-![Home](/readme/home.png)
+![Home](https://github.com/youssefmohamedsabry/squeaker/blob/main/my-app/readme/home.png)
