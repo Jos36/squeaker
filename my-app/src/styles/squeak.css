@@ -1,0 +1,92 @@
+.squeak {
+  display: flex;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  z-index: 10;
+  justify-content: center;
+  align-items: center;
+}
+
+.squeak-window {
+  display: flex;
+  background-color: white;
+  width: 43vw;
+  min-height: fit-content;
+  border-radius: 1rem;
+  z-index: 10;
+  flex-direction: column;
+  position: fixed;
+  top: 5vh;
+}
+
+.squeak-background {
+  background-color: rgba(0, 0, 0, 0.616);
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+}
+
+.squeak-header {
+  padding: 2%;
+  border-bottom: #546c7e33 1px solid;
+  border-radius: 1em 1em 0em 0em;
+  background-color: white;
+}
+
+.squeak-body {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 100%;
+  min-height: 35vh;
+  max-height: 80vh;
+  border-radius: 1rem;
+  overflow-y: auto;
+}
+
+.squeak-input-wrapper {
+  width: 100%;
+  margin: 3%;
+  margin-left: 0;
+  margin-bottom: 0.4em;
+}
+
+.input {
+  width: 100%;
+  height: 20vh;
+  resize: none;
+  border: none;
+  font-size: 0.9em;
+}
+.input:focus {
+  border: none;
+  outline: none;
+}
+
+.submit-btn {
+  padding-left: 1em;
+  padding-right: 1em;
+  cursor: pointer;
+}
+
+.submit-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-top: #546c7e33 1px solid;
+  padding-top: 0.4em;
+  padding-bottom: 0.2em;
+}
+@keyframes shade-in {
+  from {
+    opacity: 0%;
+  }
+  to {
+    opacity: 100%;
+  }
+}
+
+.shade-in {
+  animation: shade-in 0.4s;
+}
