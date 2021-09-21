@@ -106,15 +106,15 @@ this API using and require authentication token from AUTH0
 }
 ```
 - example for the reply list of data 
-![reply](https://github.com/youssefmohamedsabry/squeaker/blob/main/backend/readme/reply%20ex.png)
+- ![reply](https://github.com/youssefmohamedsabry/squeaker/blob/main/backend/readme/reply%20ex.png)
 - example for the reply data
-![reply](https://github.com/youssefmohamedsabry/squeaker/blob/main/backend/readme/in%20reply%20ex.png)
+- ![reply](https://github.com/youssefmohamedsabry/squeaker/blob/main/backend/readme/in%20reply%20ex.png)
 - example for the post data
-![post](https://github.com/youssefmohamedsabry/squeaker/blob/main/backend/readme/post%20ex.png)
+- ![post](https://github.com/youssefmohamedsabry/squeaker/blob/main/backend/readme/post%20ex.png)
 ##### GET '/info/<string:username>'
 
 - Fetches a dictionary contains user info, and user's keys are
-![user](https://github.com/youssefmohamedsabry/squeaker/blob/main/backend/readme/user%20ex.png)
+- ![user](https://github.com/youssefmohamedsabry/squeaker/blob/main/backend/readme/user%20ex.png)
 - example for the json result
 
 ```
