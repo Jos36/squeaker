@@ -1,7 +1,5 @@
-# Full Stack Web Application (Squeaker)
-
+# Full Stack Web Application Squeaker (twitter.com clone)
 ### Author : -
-
 Youssef mohamed
 
 ### Technologies used
