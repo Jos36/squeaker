@@ -17,5 +17,5 @@ Youssef mohamed
 
 ## For taking this project up start by checking
 
-1. [`./my-app/`](./my-app/README.md)
-2. [`./backend/`](./backend/README.md)
+1. [`./my-app/README`](./my-app/README.md)
+2. [`./backend/README`](./backend/README.md)
