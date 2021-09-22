@@ -6,12 +6,14 @@ Youssef mohamed
 
 ### Technologies used
 
+- HTML
 - JavaScript
 - CSS
 - React.js
 - PostgreSQL
 - Redux
 - Python (Flask)
+- AUTH0 
 
 ## For taking this project up start by checking
 
